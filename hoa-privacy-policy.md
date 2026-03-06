@@ -5,4 +5,5 @@
 - No data is shared with third parties.                                                                                                                                                                   
                                                                                                                                                                                                           
 Contact: staffan@ulfberg.se
+
 Last updated: 2026-03-06
